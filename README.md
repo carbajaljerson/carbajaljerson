@@ -1,15 +1,24 @@
-### Hi there 👋
+### Hi I'm Jerson Carbajal 👋
 
 <!--
 **carbajaljerson/carbajaljerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I have experience in using Database language like SQL and PL-SQL
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning about **Data Science and Machine Learning**
+
+- 💬 Ask me about **SQL , MySQL or Data**
+
+- 📫 How to reach me **jerson.carbajal.ramirez.es@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 
+----
 
+[![](https://visitcount.itsvg.in/api?id=carbajaljerson&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/designjerson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerson-carbajal-ramirez/) 
