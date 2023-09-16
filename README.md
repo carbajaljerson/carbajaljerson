@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I have experienced in using Database language like SQL and PL-SQL
+- 🔭 I have experience in using Database language like SQL and PL-SQL
 - 🌱 I’m currently learning Data Science and Machine Learning
 
 
