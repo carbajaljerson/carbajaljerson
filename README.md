@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Vexa Web App**
+
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**
 
