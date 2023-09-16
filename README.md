@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I have worked as System Consultant using Java, SQL, Pl-SQL and others tools but now I'm interested all about Data science
+- 🔭 I have experienced in using Database language like SQL and PL-SQL
 - 🌱 I’m currently learning Data Science and Machine Learning
 
 
