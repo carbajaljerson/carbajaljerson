@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img  align="right"  alt="Coding"  width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img  align="right"  alt="Coding"  width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"><br>
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**<br>
 
