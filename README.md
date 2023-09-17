@@ -5,19 +5,18 @@
 
 Here are some ideas to get you started:
 -->
-<br>
-<img alt="Coding"  width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"><br><br>
+
+<p>
+<img  align="right"  alt="Coding"  width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**
-
-- 💬 Ask me about **SQL , MySQL or Data**
-
+- 💬 Ask me about **SQL , Python, MySQL, PowerBI, Pandas or Data**
 - 📫 How to reach me **jerson.carbajal.ramirez.es@gmail.com**
 
+
 - ⚡ Fun fact **I am Funny**
-
-
-----
+</p>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=carbajaljerson&icon=0&color=0)](https://visitcount.itsvg.in)
 
