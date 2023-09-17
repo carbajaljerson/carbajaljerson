@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**
 
