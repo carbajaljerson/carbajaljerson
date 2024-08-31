@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**<br>
 
-- 💬 Ask me about **SQL , Python, MySQL, PowerBI, Pandas or Data**<br>
+- 💬 Ask me about **SQL , Python, MySQL and PowerBI **<br>
 
 - 📫 How to reach me **jerson.carbajal.ramirez.es@gmail.com**<br>
 
 - 🤝 I’m looking to collaborate on project **Machine Learning, Data Analytics**<br>
 
-- ⚡ Fun fact **I am Funny**
+
 
 [![](https://visitcount.itsvg.in/api?id=carbajaljerson&icon=0&color=0)](https://visitcount.itsvg.in)
 
